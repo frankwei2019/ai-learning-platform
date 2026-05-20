@@ -1,0 +1,4 @@
+node_modules/
+dist/
+*.b64
+*.zip
